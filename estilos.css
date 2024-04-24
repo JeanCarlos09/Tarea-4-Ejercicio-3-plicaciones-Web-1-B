@@ -1,0 +1,37 @@
+/* La regla siguiente define el estilo para todo el cuerpo del documento HTML */
+body {
+    color: #00F; /* Color del texto: azul */
+    background-color: #CFC; /* Color de fondo: verde claro */
+    font-family: Georgia, Cambria, serif; /* Familia de fuente: Georgia, Cambria, serif */
+    font-size: 16px; /* Tamaño de fuente: 16 píxeles */
+}
+
+/* La siguiente regla define el estilo para los encabezados de nivel 1 */
+h1 {
+    color: #F00; /* Color del texto: rojo */
+    font-family: Verdana, Calibri, sans-serif; /* Familia de fuente: Verdana, Calibri, sans-serif */
+    font-size: 32px; /* Tamaño de fuente: 32 píxeles */
+}
+
+/* La siguiente regla define el estilo para los encabezados de nivel 2 */
+h2 {
+    color: #A00; /* Color del texto: rojo oscuro */
+    font-family: Verdana, Calibri, sans-serif; /* Familia de fuente: Verdana, Calibri, sans-serif */
+    font-size: 24px; /* Tamaño de fuente: 24 píxeles */
+}
+
+/* La siguiente regla define el estilo para los elementos <span> */
+span {
+    color: #060; /* Color del texto: verde oscuro */
+}
+
+/* La siguiente regla define el estilo para los elementos <strong> */
+strong {
+    font-size: 20px; /* Tamaño de fuente: 20 píxeles */
+}
+
+/* La siguiente regla define el estilo para los elementos <em> */
+em {
+    color: #FFF; /* Color del texto: blanco */
+    background-color: #000; /* Color de fondo: negro */
+}
